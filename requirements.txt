@@ -1,0 +1,8 @@
+torch
+torchvision
+timm==0.9.12
+datasets==3.1.0
+tqdm
+Pillow
+numpy
+scipy
